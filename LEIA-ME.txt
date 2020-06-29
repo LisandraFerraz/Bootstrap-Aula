@@ -1,0 +1,2 @@
+Fiz os banners no photoshop, a qualidade acabou ficando baixa. 
+Criei o menu e rodapé digitando um css a parte, ele está no diretorio: css/menu.css
